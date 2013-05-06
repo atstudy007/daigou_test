@@ -1,0 +1,10 @@
+#
+# robots.txt for Frugirls
+#
+
+User-agent: *
+Disallow: /category/
+Disallow: /shop/
+Disallow: /item/
+Disallow: /hot/
+Disallow: /hot.html

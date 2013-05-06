@@ -1,0 +1,950 @@
+[06/26/2012 11:25 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=185.50, invoice=1340680829, protection_eligibility=Ineligible, address_status=unconfirmed, payer_id=LNRGH9AR4QADJ, tax=0.00, address_street=321 vista suerte, payment_date=20:24:51 Jun 25, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=92660, first_name=Iryna, mc_fee=7.53, address_country_code=US, address_name=Iryna Iverson, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=United States, address_city=newport beach, quantity=1, verify_sign=ALmn84OfZVTt6aNjJ0bkJZZ6Z6EkAZDbHSERzxEK9VYd9iKL8Q9cKnNt, payer_email=irynaiverson@yahoo.com, txn_id=65W99667DM9617022, payment_type=instant, last_name=Iverson, address_state=CA, receiver_email=4884707@qq.com, payment_fee=7.53, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1340680829, residence_country=US, handling_amount=0.00, transaction_subject=p, payment_gross=185.50, shipping=0.00, ipn_track_id=48a80f81dcccc, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Tue, 26 Jun 2012 03:25:01 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ArjB_hPnypeg8muLCvy-ig5OGEfPng-tBODWRbl20-bbxH3wWa7iqxEcV1UbZVjPbDSgibLsgK6nYkpWZnYkUGSlCgcfEImPJbKlNRvLC4fKUa22Zy3gc-e2eQVGG3qs0uoLrm%7cngcQ-DaEaOM8v2rYBCvmoT6EooQ-r02yy0P9q3wbhasOlXGlzOuXvXUI_apvkqI6FFYFUW%7c_rASsMbGRDwjGQ7uOF_ouQuNqjjO3b2mq4eDM8OZPnvFC0RSmONvYCoNxF8Bbd61KxJxBG%7c1340681102; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 24-Jun-2022 03:25:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 21-Jun-2032 03:25:02 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.47.1340681101968463; path=/; expires=Thu, 19-Jun-42 03:25:01 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=f4363279d3bc5de98db97b008743796d29a320a1869dae724fe92b8da0e2458946fde275634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba747d1daef; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 9:35 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=350.07, invoice=1341035897, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=06:34:35 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=13.95, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AFsjNJkyUQmAzJSflS1VGkdBqWX1AOmFrrhgAG11rXNdwuHsodtDx-ZW, payer_email=annefung@hotmail.com, txn_id=6VA788639X931561C, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=13.95, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341035897, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=350.07, shipping=0.00, ipn_track_id=1012fed3a4631, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 13:34:51 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=OZlMEC2INT-bFhOlYnA7BM6_fUbNM1l9n9WdHcjrqqHz356NUm9cTcU8Z6uANZas3i433WRTUWtrQwSHm76dTUFMypsmcddcsnkYQhyjjj-uP2iY0ctGp8rzK5uNrT_1H4bUtW%7cohPvhSjprY3rehUjxRvaSKaKxMu-5tSMRcG5gGlKBanM57edT-H026DUGyplG0pcUkWY0W%7c_oEWFkuJx1BerfEqXLil-oGh6J-Z242htxRsShgkRo8gDsnOgFBQ0-Sj00xemqvgPwSTKm%7c1341063291; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 13:34:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 13:34:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.43.1341063291290981; path=/; expires=Mon, 23-Jun-42 13:34:51 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=d12c85a1f0fb323a09fbdd49d53df28679824d20e6cfd9174fef007ba0e245892fb58824634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7039bcf53; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:00 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=543.05, invoice=1341040999, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=06:59:42 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=21.48, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AdmBFDtzKcu-hraF.k.snywhWg78ALb9EOuJliHuJZxpdUVJlwKyJzWo, payer_email=annefung@hotmail.com, txn_id=86979412J3026250N, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=21.48, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341040999, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=543.05, shipping=0.00, ipn_track_id=fea524d3b69c5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 13:59:54 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=YPA4IA3_KiLyr21W_rNIyDyHArfSmW9rgMMaTu92l6ksIs2LD_QE_2onjxOCzSJwRF1TLJc0jkCNFhqSH6gujX9ewlMpRBXfeKQdI-4SbXzyH6Wh5eqE0cS5M6e%7cpgptA2to_SPVIsZ4XOr3wSXostXRngxxQxnrLs7M6Hre4V9Wz2gYPzy53RnqODoy7QJkdG%7cqnrpflI1IcM3qWIiSzCmx1B7qPX2vRcsH8Pn2LGZJDiTPW5fjPRGBMNOfwCtQvaN2IqwVG%7c1341064795; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 13:59:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 13:59:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.40.1341064794969822; path=/; expires=Mon, 23-Jun-42 13:59:54 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=09e5d4097dbe4065bb83140e1b83b5a371e31933e26cf75f4fef065aa0e245890546544c634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7fd177163; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:03 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=13.44, invoice=1341041365, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:03:05 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=0.82, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AeE5o3tYNsSXxKmwepPhqkqVPkSNAaOFz9926SEQ.tU1banBE2msNEUn, payer_email=annefung@hotmail.com, txn_id=5PR49449HP5982415, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=0.82, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341041365, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=13.44, shipping=0.00, ipn_track_id=23d3649f7ae57, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 14:03:13 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Eq_dZAFCVLrL1DZQXs6D1ggrOANVgpssUSyqmSuCXQBOgE8h0e45bkzOiRLEsKPuvE-bYYEeMh_N75METVprsJY6L46MkvxHonSvBTuRHtPZtMSGGeTEAzFfcYoF-Bntr9LRf0%7cNbYsHAAmBY_SECSof7AiHeHgz4rZlkyVOcxv1VYoqxi1_eVzxPf2KaQIk0V6zLCGsEChe0%7ckoSJrlOIYyWGtGmx0KHILGWo97EynttKTJJOrLdBLWqPQtZ9KCjDUVe00z6s3_qQ2akz9m%7c1341064993; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 14:03:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 14:03:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.62.1341064993074056; path=/; expires=Mon, 23-Jun-42 14:03:13 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=e6e9ec27f264b42e40c54231910a79555209a8dd6e8106654fef0721a0e2458987aeecb3634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7d96cbbf5; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:05 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=389.84, invoice=1341039180, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:04:54 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=15.50, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=A9A0gZTWcGyirG.qnLuzNtP0Yj-IAek6GRy.reicsGBFzFe6O7pOQbMU, payer_email=annefung@hotmail.com, txn_id=623567074M370982F, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=15.50, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341039180, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=389.84, shipping=0.00, ipn_track_id=15ccfac4381cf, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 14:05:07 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ji62mzclgKmkv-GI2o3qBAIckDH04dOUC1tl0ezpNXpVv_3xjCl9GcyhMT_B2TuMAFUesS721aD-wPgeqXMWMl8-XZkDYee1RUAMcUi_sBi0W2tpCf8dBFxkP4yHiDLXVOcfKW%7cv7q5dtqwKCXhIq_MaZK4Qnl7cZB7GuSt0GpIqumGoLqUwDmeHhhhEHC9-Nqofw9HJVN0-m%7cqy9glBOizpssg1WrFhtxzqSje_qwGW7g6-qytoX-CxEwZygWTvLqkWdzjwdfYnBm_IYbj0%7c1341065108; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 14:05:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 14:05:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.38.1341065107928764; path=/; expires=Mon, 23-Jun-42 14:05:07 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=a9b3f5c27fa649c512eb9b4c6572f132fc542d3aaf7f127e4fef0793a0e2458988ed91f8634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba780bfabc9; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:07 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=110.68, invoice=1341037311, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:07:33 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=4.62, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AjNG4H.j9XP5JDmRSY54-UnKMFtBARz0Am9uTvQK4elVOQj9ErqCK74Y, payer_email=annefung@hotmail.com, txn_id=6YP994044S877325H, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=4.62, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341037311, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=110.68, shipping=0.00, ipn_track_id=44a6f55511aa5, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 14:07:46 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=VM861XmMpEISvJq2nBoSUZ015tqvxeDyZSwpfWbI1Z93GDJ0lTq03TuEZq5hjvC_BYZmmfTOTTPWVbbBMx5amZGUDmEkKYNDUStfnfDiMEi3sMBg4wNvNCRadWZHg70xCrMlLW%7cY9A-TTHuvCF-FPBjHi0zpaO5s0vGvbMen62j5Po0JhoDEvRNCaVleAaEQQDikVvBg4dTSm%7c-l93JNU4oSw0EteSKM43tOxZ9SuzZvV7J32Hyd0Z1XHY70pw7KxoyqEJtWPTRAHF6SWSzW%7c1341065266; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 14:07:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 14:07:46 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.69.1341065266510308; path=/; expires=Mon, 23-Jun-42 14:07:46 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=7df026bdfbf741cb7c853da13f58a0abde8f8b62f0255ed04fef0832a0e2458910d83bbb634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7bb7c1afc; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:08 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=124.88, invoice=1341039850, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:08:35 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=5.17, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZuRXZRkuk7frhfirfxxTkj0BDJGA2zL6dMw2vRJ-RoUBang8Fferkry, payer_email=annefung@hotmail.com, txn_id=0WR42350RU0675320, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=5.17, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341039850, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=124.88, shipping=0.00, ipn_track_id=7a0f669be0b35, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 14:08:45 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=GQiJLQLwd6GortEsJOPpncvPa_duV3i2SMEzeNxGxoIHcdP35kREWlH2k8PNmMFPoXvRz83p_OjHDEAblGhG9wtgiXDb7KEkkAcFSOVSsCYJC66l7Hh3xcLVaNS%7crayiRD-QZqtFJa9WGbzPvxn8BYwd8uTAgoXETgs-6UrL4nWWtsxa_O1n5jANyUeaPAjg20%7cv5B3sleh9m8HgFX-Ycmu6IyVyChaOyp-dwpnpQjlCI8V70PzRl7ZFV5054TS98E90vXWlm%7c1341065325; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 14:08:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 14:08:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.44.1341065325315354; path=/; expires=Mon, 23-Jun-42 14:08:45 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=d60ec182f7330be60635c923b5d8de64dea4214273267c684fef086da0e245892808aba0634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7d31c4ab0; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:09 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=144.58, invoice=1341038848, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:09:40 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=5.94, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=An7H3kH8.DY56ocyWs9pEuVQUM5wARxwTlE2hD588cJFw.BQyXYfgpy1, payer_email=annefung@hotmail.com, txn_id=2S735711E6335563J, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=5.94, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341038848, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=144.58, shipping=0.00, ipn_track_id=8213f30123a4a, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 14:09:53 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=OFgVqsICEdXFSLI91jVzlojcGrGRT6dkN7oHFTtr3eyj2RTFP3sRh_iPmpk1IwldCRKhlypR_aXTjcJQ-hXLFJGn_wNJHVwhFljB3BpNjjXHk1d_eSZ3gGSPI98rTcIOhq1u7W%7c_-0As5WufrwD9Fps6EjJOF8Z0T3ex8NpRQTaVWUkacGRgSMNpSawd2RNXENmPRDP9LsEVG%7cb3-7irCjK6OBGLn8Tyxc8zwwml5UgzUf4aHpI1tlaMjUtkvwTywjAhX-vjqvQJsecXyFDW%7c1341065393; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 14:09:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 14:09:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.32.1341065393239988; path=/; expires=Mon, 23-Jun-42 14:09:53 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=830286036a29940bfa28ccc8c53d1d99eaaffa48162858354fef08b1a0e245899f0cb1ff634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7fbc43e6e; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[06/30/2012 10:10 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=198.01, invoice=1341038293, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:10:34 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.02, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=ALwkfzpIkSVWiA9Agqeb9u4zGZcXAs6VUIx1y27RBvV1hQJJyH2WBRoa, payer_email=annefung@hotmail.com, txn_id=9DF40495U5155541T, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.02, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341038293, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=198.01, shipping=0.00, ipn_track_id=7b89e7d549b17, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 14:10:49 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ZdsxLujdUckkH0W0EgiH2tbxVMPL1FUqRm4Y1LURoLIf40PC3Wio_N-g6xIJaPN-sjePI71YVGKIJiyclgK2aFE7Cdf3QjFsw9rFiCknqtiLfrJyk0nj1KcbFd0%7c5vpRIy84gEV4-QICtVrDGeItKKhrN3eREvtjAVCcwYQ3by5B_ejF44PNvd7vLV0gowEoH0%7cG2ZEK9egNz0FC_jlaks7LGDPMkxF5PeGs6cFTW9UmZFvM7m8-QNbbChxNjVPFjHf8cTGuW%7c1341065450; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 14:10:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 14:10:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.58.1341065449704316; path=/; expires=Mon, 23-Jun-42 14:10:49 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=414c416868c62bcd064b63e4eafeb54d14a4aaa44a1243664fef08eba0e24589419feb4d634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7196f3b2b; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/01/2012 12:16 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=71.02, invoice=1341059717, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=09:16:24 Jun 30, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=3.07, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AX5ppPWm-DXCobix7cA6y2UdSegjASUlmxJSrtYTxnF7vDdpOKkx.Hic, payer_email=annefung@hotmail.com, txn_id=2EF437512F248215A, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=3.07, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341059717, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=71.02, shipping=0.00, ipn_track_id=ba38ceb95b0b1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 30 Jun 2012 16:16:35 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=XHlgzvdzcZpLze563Q3XWVIYHN8K8gCLHvZyr92u9rZlvpDCbyZFrcbtMgvZBMCk5E2UV0akLZX8vMH-vXBDoAcbhFln8eK4Ysuj63qkJqrLg8Kx2Xh4OjcSpJu%7cZO3QB7k9Ar89hV8rRZwLEbMstBysasEG0gxJfzUpgtIN-ZT6JlHw86QY5PxnMIvEzPcJ70%7c6APWcBicNXEeoU4Gd9S6q1BM7mxKB64Xg2qiCRcmZsllim4d6xmbVPqZOSl5H4tWZskgeG%7c1341072995; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 28-Jun-2022 16:16:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 25-Jun-2032 16:16:35 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.69.1341072995425828; path=/; expires=Mon, 23-Jun-42 16:16:35 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=69b188ae0c42c75727615a01c4a4469b3177f53d33b457c84fef2664a0e245892ca48c08634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7acce6009; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 11:50 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=154.01, invoice=1341546382, protection_eligibility=Ineligible, address_status=confirmed, payer_id=YTMQTGKRJ4KGY, tax=0.00, address_street=42 Chiara Drive, payment_date=20:50:29 Jul 05, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=L6A3K3, first_name=Joshua, mc_fee=6.31, address_country_code=CA, address_name=Joshua Troncoso, notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Vaughan, quantity=1, verify_sign=AkB8ZM0QoJrwgEXHUE2d4ZVUPdsnA.j5czIFOw3g4.n6INI3mUG4nQ.A, payer_email=emblem64@hotmail.com, txn_id=55U95178K9793870Y, payment_type=instant, last_name=Troncoso, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=6.31, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341546382, residence_country=CA, handling_amount=0.00, transaction_subject=p, payment_gross=154.01, shipping=0.00, ipn_track_id=c5f2c755867d0, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 03:50:38 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Qnwa6L85gqu8UNFBBAYgeNCwwOW9sBSYkF6dQ1B4IGMCZkNpqiZC9MT1n39ju442fcEZZXxjuIwH_PSEMePs5tlr5lDkeTHokMHE59HTUk2vRbxATxV9A6YwNebMgVZV8RByyW%7cLh3cVWdlVDjWsHTpaYu9qk-b22CKnrH5CQsFe8ZGDz3_z9M3_qFdHNvDWCm1ED7dSURWmG%7cpp-qIWDKVtVCfODGiSGTmgDWuZXQY6xtUqzLQkwDs1ifix7vPLWoTQnqD6wntaJKsFfQfm%7c1341546639; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 03:50:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 03:50:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.68.1341546638968530; path=/; expires=Sun, 29-Jun-42 03:50:38 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=37805fd19a32130d49017d746e64839bbcf6fdc7431e31494ff6608ea0e245892eab7759634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7cc1e8a3a; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:28 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:28:39 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ZdP-X5swZkNguzIeapZQ8TmdKqfOec2pb1rRLnCqas2XFW2SnyytVQvZG4nbDFG0tYleukjS2J9yEHdhvdWNTej9rg8vcIFz4kU1XmFrPcLwj8gxM3Z7KvRSQGAzl6bcwk21s0%7cSpjKvvHKssYagKNaUtuDGPRLYuGeCFIZFoS8qi7QZuCTTx8HwtnOc136FmvzzP9YtzL_6m%7cLzy3yoQKVQfSywj0-xVcBcVXbNPNTp_udV7x05DMzbExHkmdekG9gIx_N7licdch_4fnBG%7c1341584919; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:28:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:28:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.56.1341584919384466; path=/; expires=Sun, 29-Jun-42 14:28:39 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=9dde802ee02e5c97b239a5528a69a9235fe8c5c172199ddc4ff6f617a0e2458943b270dd634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba71237e705; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:28:55 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=szssvslcJ8t4lga42SZBmOYH068Tq4N81nwkuLituTnkiqElNx7qkD1rlN3V90GD-zJ19x2OcRiaslMdSgzHe5A9oTb_5uAYAsTe1oSujoi3Cb31JVnBpZRf0HmVKi2GEexr4G%7coPsgB9M1HwJqAjkC0110LJQKTyvRRL5osyB-70z0nA4N9EhHDKtXoDuJpyiEV8JHvOmw9G%7cZnAtSFUfh7dHl0uCf6g3Wms7ohfhsDfGVHkMvS9Z3IqJ4e-raEsEDMWZOGwjt89fW1e5lW%7c1341584935; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:28:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:28:55 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.41.1341584935654898; path=/; expires=Sun, 29-Jun-42 14:28:55 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=a805f60dcfbe536a7f6bdbffcc19e50683c1ced920ae78034ff6f627a0e2458978fb1318634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba74f6b0693; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:29 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:29:24 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=KcyFuw5coJTiitL7-bQTWTEl8OB7xCWvcqNsVLTrvGqGqE7kPFkwovW1gJ4zoITBrG9YxMbE_Kc0fsXGmf9J8x2eRmoV117cRDHFNlkUHraq-1fYG5tGykifCvi%7cYPHF-MdjDG8c7wNU6VyF1hrCjMJyghbk6aTRz-W7JtZP6KAsvCCKVjJEAgxR6Lhc1-Mz0m%7cTLbLxgQ-fHdLteycEybge9jROKozsgyvCrK49gMrFOddv5yaQWwGUpBzuj3JqJdMxrlzpG%7c1341584965; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:29:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:29:25 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.35.1341584964953212; path=/; expires=Sun, 29-Jun-42 14:29:24 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=d35782ddea45b1ede6fb3b857cbc2d5703da4992ab6948574ff6f644a0e24589c80e1077634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba75e1e6f51; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:30 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:30:12 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=llHme0uujr2t3lVmHvvQAESvAgB5_6RCAddE8GkOZKeYE3rrvVIp-ctnfZjz4ny0pQKg5LLYcDrtz0CFwK6U9-kekGapd-wo6L3kuBFkGDUYvZmcRsWnoUXSifxlDVsUwT1caG%7cb0vZ6IthOih4kygiJuqlErCm3VNdXv3wurVvcbIFWFsdC14HagwDs4Z8tCaw1sQEfjbr9G%7cz0Ngkg2ihOta8_gddCkfot5BkgDNv3Ah4KZgE9JFoD6HV5l2akG-WNrjbP2e4Xv7NcQ8uG%7c1341585013; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:30:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:30:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.70.1341585012839749; path=/; expires=Sun, 29-Jun-42 14:30:12 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=059efceb66ae853b364a0c53779b8db818a913534ce221884ff6f677a0e24589fd16ef6e634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba73bd35bd4; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:31 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:31:43 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=bTju-gEihkym-5AwwIst7U-uyPfdgdgKiJw_W1BFcL4_k691HOxstOwtzfuvRkW0bYch3jgqw_8vLDtvwHE6J49k_SqyyFwNlsbUG7VC0p5ghe_m2Ts_jt7MuGpZW1gxl6Buo0%7c_WH2HEqtl3IzIfltA1mWGlblpJoYRyaly7wmRdTVvt9XgkuQISOPMVuziE8usHGVXogD8G%7cIyF-qej6Y6WlUwb_kMzIustcpavpwS8eX5X_EwzgoUBT7k883GGyDmWSAZhjlkAgfr-r7m%7c1341585103; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:31:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:31:43 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.33.1341585103209014; path=/; expires=Sun, 29-Jun-42 14:31:43 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=a88934da77ac8294e14471a060bb9a5717f97c0eb27345e64ff6f6cfa0e245892b12de57634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7161d2d96; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:34 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:34:33 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=YzDA6QwNSom186urjXneDYoeXoZAi2_Q9nlyn9_lbzKK5fusvlTgKJmbnijicARDJqkhKGbgNbM6L_5u4MMo_Cg-N-w6N4Du-rNST7VG6fyngfTJ8qaj5nvqDSP3Jbpx7n1KiG%7cVNiViwvfwQLSQW51Dwl_5aEq8tHunNDKg-kmHgEhZCYswf3ciBL8ob7asSext6tqSXNDjW%7czKVnzB3hBgxSzDZst968KlJo8o87zvFNYu8dKyY84bfADvKAQwfIDa-Gt4oZaOR3mVoc2W%7c1341585273; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:34:33 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:34:33 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.42.1341585273201159; path=/; expires=Sun, 29-Jun-42 14:34:33 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=60ab45f7211d6b9bdcf4eee9a6b4f0907f47315fb01139794ff6f779a0e245893d8a2fb0634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7db807adf; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:40 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:40:03 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=5tPMXSDady0z70BkW6K1FecKjImWaiLlUDVlBQn8c_mdwDXiYg7QSnQllfhPD2y--mx5Jo3AvjV9PJuZDLD5Mu4RoeYqn-E--98HVz5PQYhNpGyg0kB1UIBs03v2zvnCQzdPJW%7ctWFrQGE0V33kLgiY_SxyS4C_e1Wj1PvmB9kRTfvqzwq5EImzVCtIUD1a3xCmLKsMFOED6W%7cj5UwrD4JRNo0Onyf3T4qZfrJpiBWw7EcuVcaDYklvpc8IzFCNFV9qTzotmniE5BH4zql30%7c1341585603; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:40:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:40:03 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.50.1341585603184980; path=/; expires=Sun, 29-Jun-42 14:40:03 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=48175d489aa87c48eb324e92c67721c3dcce752d60a213984ff6f8c3a0e245890f745f62634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba72de483aa; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:40 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:40:04 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=pqC8hX6F66MvvxQLsR1MRUMpuz3uYARLAkScsvdytO3YrUFFJnfe1boDPYEKXW0-p1w14AbnXN0b9XfiUsC_PxRP7PpRg1WXergSQ65H2MGH4w5XnfTIHoVDa48%7c_zDI3E43LISG8jYbwkUD0DIEFgya47R6A1qj8f4Df0vMu8hg3jqcFhaLJlFZCM06LmhcgG%7cbk-sN0i0fmLYzL3nNhH1iY0Znqv4d8zATmWkX1XsSFwam_SpjkfsxTuftcHyT3CCwUNRR0%7c1341585605; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:40:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:40:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.59.1341585604869320; path=/; expires=Sun, 29-Jun-42 14:40:04 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=2cb2e1ae1c31fa89689bca654519e5a1d6bff0742998deb54ff6f8c7a0e24589947e349f634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7b97ea856; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:40 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:40:19 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=HHIfB-pqJeyOLA1awcm0382O1dAECHB6wpyK4JvIwvvisddZ8LzRFCirZ5_xK14gn21jbbBmJYTeWX1O80jjj7tJDfjK44J17xZitHOhJuzHAhFGuZY1RLA9u9L0l0-azfvntW%7c4hZv500HinElQFA45iqPxoSlCBSpK_67_94GyZyCx0I6zSvVJEcOSJ4sdHXZq151TB2W3W%7cvJWGuZ2L6Yo1BZdlufrjHk7Z12JE-WeISVkf0HVpHuDQcPlTAYeFwnMghVPhX4ELlFXOlW%7c1341585619; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:40:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:40:19 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.54.1341585619438512; path=/; expires=Sun, 29-Jun-42 14:40:19 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=8ccb787c15f0fa3a91b54d98916754deb717bfa8a3a79dfb4ff6f8d3a0e245894a9e4d9c634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7443fe20c; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:41 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:40:48 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=QeYzSYGS5tuqAw_ZkpaHZqr20SGeoJp66pKKoOrHyKEaQxxHxb9RBGQZCImXhqB72Ns4GiL0fb5DomjYy0N5nuN6mYOOvfpOYRkjaobZlrGKrgcSEUBd6Dpnmk5skspW1CXfKm%7ciyT5RvjXDet45MEnu9WLotzwLY2YergQItPmNg4uXh_AIeyvqIm6fBEbwomwNds0hmG6RW%7cgBlVVT_YUprjcwjad5jp67uELnVQuAlWP_c3f4Pniw_UTIJF8WF9J3WKLtexWXyN67S-VG%7c1341585648; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:40:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:40:48 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.38.1341585648387985; path=/; expires=Sun, 29-Jun-42 14:40:48 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=99cf05652168157e7cfaa8b17471ff333acb713e5255d77d4ff6f8f0a0e24589119d73b1634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7c7462966; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:42 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:42:01 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=lx10RiYEaGTCl3scbBWNMLJbGMFya1KpFitZf6dhCHpRn-BDjbD_3fOafol6coP0m2kXfOG9jyNRxpBZox8q7VtzvRRtEjoAZKNNcyGwb2nk10_tdLUxUuhWsZ0%7cut4JgD7e4YvmbM7PGzq_p1F95ZVymTnmYKPMIh1BFImuWeGmSpOZDQP4NbGNzob-86iaE0%7cNdp9l2NxC-jocYf0tFIYzaXtfJugnI7Jhct5bQKjsIoQuDA002DAMRnBA5NI_LICY-RCf0%7c1341585721; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:42:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:42:01 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.58.1341585721055500; path=/; expires=Sun, 29-Jun-42 14:42:01 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=b5bd574867aa8a480d77a1d2fdde065006e572b747e5779c4ff6f939a0e245892c88fac3634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7b3e1af51; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:43 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:43:28 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=D1qZ_vBDPLEcvm_wvN0rEHZJ72hSL8Fajm4Gc2z7-r5Q4vRU62pX42bB79kVbER2qkOmzieDzzf39BYgtUADpXZPvGrAgn5VsaLgkSNpdC39XgzAG3FCX8jb7Sy%7cxfEIxGjsMKh86LoZCM2qhGEMtVrAkH_s2i6IdRnZPi_7Yx-Tj7GHzWJKETF7OQBQ0jMY1W%7cEMB1dLjVUEAfmXFOo6uKogiLyFIxck1LKWbvj1gLOm_aoYTC0oW5FyTSWccc_VcOUXFxH0%7c1341585808; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:43:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:43:28 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.51.1341585808079819; path=/; expires=Sun, 29-Jun-42 14:43:28 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=e8e3e475e4baf2e680f797f3fe36be5b7834babaac873b064ff6f990a0e245890cf8fd41634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7a6cb1cf7; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:46 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:46:17 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=LZ2_lK1zl3g9IFN3ZBCGYm_7Vw9iMusKzHz_lhKcexmBRLOUZyLCUWYlO45OlmyIRt5M-M1fSXXE-L_POC_dXdMPaqJ5qPefBtqbDHaiC1Noqi1APe-YnmuWdbDcJIY7925P5G%7c3bn5M7DZmMmq4tQZ-V65JYVjt5H-E3WEguDDODuAs_REJdVHEWvcu1dV2-7YoXrnjfqbzG%7c8Rrh1pGt_caDHEknvaTLup1hvvhb6ae7VoYO3FXerGMyhVJUFyXrtXIYhiasO0zynQLs-G%7c1341585977; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:46:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:46:17 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.53.1341585977339594; path=/; expires=Sun, 29-Jun-42 14:46:17 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=a4bb55ee0aca5af5b29cfc13b567cf4e82a530b8035939ad4ff6fa39a0e2458928ed8c82634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7ee602f44; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:51 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:50:51 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=VH-PK1Qtj3Sptu6sJEaaTxUEU4y_YC8vH1AI_J0yv058dpd3m4VppjgePFBIxyNBluUN7oACslEScsoAfyG4EL--7QN3qDiUOF59gMC-Kb5trUzHzb3SU2LPo1rmc0OGo5xYqW%7ctUt4L1VbfdbjUxWpaOaZopDaTAJAgk9Z5Vf6oxa1NrClLUI28nxwlEcoJcuzxoR1wQYzTG%7cHoK8QlaaxRJt1jwKDsV2DG3hXCbJ9XyKQtyVk9ycW2KznCUTPYn9gAg286pVUIvVtBX2qG%7c1341586251; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:50:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:50:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.48.1341586251273315; path=/; expires=Sun, 29-Jun-42 14:50:51 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=96be7cf224b3bf4434a447da9248764351fe79e6850a325a4ff6fb4ba0e245895a123406634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7b046177a; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 10:52 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 14:51:43 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=7gNts861gN_LIONToz2wxTPm03zxbw1f6N3SxGq7HSEdJWPNcx__BgcHZXLg_iaKinlpHJfr_g6xK63752kcSjoEFSeKmblLAP5DFpjnMCGu6WA8aACz_rymq6s_b7trBKfM8G%7c0Jj3H3SxWdWYiDb7jK0LBmxmI89OzbBv93KfDlyUW0sgQ7rdPLkWFTtV2n9-mnZ8UNJVN0%7cmoHIQi4Xau1L4y8s8nPviW4qbAulalCfbgkCcb4mXGgsJ1tUtSjmq7eteUz9xMEvUpwdYW%7c1341586304; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 14:51:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 14:51:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.38.1341586303775197; path=/; expires=Sun, 29-Jun-42 14:51:43 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=58c6b2180b977c7763c12ab8963caba8f4914391885f58e14ff6fb7fa0e24589a644c774634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7937e373b; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 11:02 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 15:02:36 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=DUYpxILhBMerj9w5gv90fjK2XLIU7f-yINp1zJCirTIvm_xDAysf5IaQ5-e2UWHzSxWDK4CSkGXR4CpwVW2FhkznQK6FgWd6gGE80UGb61i72KPN4rKm_EyofT47UXkY-rHh6W%7c8aDbWdmnfumqOjYDbishzlV8BmRrDhjBn2XNBdV8nME7D5MK_UbRt7Kf7iw4M8GgxIlACW%7c5ECN5URRWEFN5nRi45CALIIaOl_x3mOUANS7i9oyB3Xvrz7OdY6Y2AH0GDVfnHuUMQexTW%7c1341586956; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 15:02:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 15:02:36 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.50.1341586956256031; path=/; expires=Sun, 29-Jun-42 15:02:36 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=3444fd6692199518cf8290bb0da08d10fe410ab5162844ea4ff6fe0ca0e24589c31fd450634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7f1d32350; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 11:12 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 15:12:18 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ztOOqyc1RDDrF7LXJ-bPXHEkUJyAZQOxeOlZF8ZZW6yZ_ApviUdwsVKzew1dojmxaegvN7NAd7-c4u2sgd-cQnScGqCCvWyaNKUM1B9Xau_xtDGyAxmcrNMh7_pYLZuvYZcxem%7clO0eArL5WIWA4EYFFZ9u0RLXCRLJ51PzzwasoXou6zqdw3ljZdJvDkvtjSvs0apTAOm77W%7ccpsrgbRey_yYIoWXcm4fUp7Hs2vpvNTI_7_5VHRSocmLjn8T4ukHqKBnJiq57Ipcn7zkC0%7c1341587538; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 15:12:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 15:12:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.62.1341587538065212; path=/; expires=Sun, 29-Jun-42 15:12:18 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSd78272=3e1055348a099c285b4ddf6b98ee71bc778c36a5030770254ff70052a0e24589a798d3ed634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7aef6f459; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 11:24 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 15:24:04 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=52yiIPt1QHDGzoELk3b9U_D6ur5li3jBkVDXjSRsbmcotAqdE9rJSqaazVZN8G0xiyN-_9K8IDBqlyLn82eQwPQXn7rnaDhOafLVbmKDi-6_DCTX8pb22LzXLs7b2SCdm3gOTG%7cyTKDuCd4eINFbVBb1IDY4jJncE6iNTFvbwWJDyCjkQ-8dkIwaWLBO4xUVt8O46SZWtxj3G%7cZsEh-UJGQoIbuOLV7p0RrTEepMzitNG7omHe9YYMIBpXEHtbZtRjv1Uma6QN2Uyt2P1X_G%7c1341588244; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 15:24:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 15:24:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.70.1341588244423676; path=/; expires=Sun, 29-Jun-42 15:24:04 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=4ebbde822b5a95bc3966db259e0ff97c0cdb6b85776a228d4ff70316a0e2458980b55793634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba73dfdf1b8; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/06/2012 11:55 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 15:55:08 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=X_csZlHApF9Dl-yFUgc0-lhPSKRiZs6MyeevYM9XRUO6yl7tGApQ4FxOfQ4cEETDse2b6dTk_YATNUPPfqGz8jBa2GWc_Vz6vxtZ0Kc8q5osyVTD8e0dDBrjJ2P0F-mXY4JwcG%7cDeVbCxgrhtMM3g7GTOtQ160gTJZzpBjqKu6jai3vUbugWZ6sUhiu9K8KpfrOaugQXvHc2m%7cm8t69QMXA0FJkxlQQoR02zOBasyhVxZ81jaDoMZcLzVMCwp4ML_c5GJZX9mkuDhgYTnb9m%7c1341590108; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 15:55:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 15:55:08 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.56.1341590108303956; path=/; expires=Sun, 29-Jun-42 15:55:08 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=4f303a47bd3b7f63bb51aa3c9e480d27ba8b0d93d860b1d24ff70a5ea0e24589da68e7a5634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7d527b98e; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 12:07 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 16:07:04 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jXv6i_3Hg6dM51SYWDMUAs9nbqorJ_wTr2MGwYaGT5NqmHzwc2lSR1z7y1q7heezaetYOiHcM9U43ZsItfuTz46Uw_i0egGsgf7jXt3WGzno9Pwp3nvk2zOpMbBtY8SayBzO9G%7c4Dyw0T9VdXCMVm5od-REoZqdXgPElXZ0ydWBAFJ7NX5e0fXLjOl8RToPfwiqZ0EE_dP7fW%7cM_0Qf2Uih1fCgIr-Sz8wLefy8_TxrPm89HdFbzGoH5c4g0WSBrVvhFcZaRIOKYYFGH604G%7c1341590824; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 16:07:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 16:07:04 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.38.1341590824093350; path=/; expires=Sun, 29-Jun-42 16:07:04 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=46deb356d4868cd4f3641fe93cc611c1b22b5ba7b3ad67a54ff70d28a0e24589291a3f20634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba718b87e83; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 1:20 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 17:20:38 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=WOIVP1ND8SR9Dfgc60YuntaiUVRVyHgqTkeFJdlSsU-BVs9zEi9RRJ77rt021cQsAAuk2UMbjLnTC_VHRw0NtDPz0AAiixB0gvmtbfcjoL6znhMQN9UUXdaKznLsPl6KIZguT0%7cEVc1ZGyfP-NXBsX460yBvrcTlt8j11kr-ueyNOrElGl9UX10770Niec0CAYL0vh0JgLuvm%7cZvvzArrJPRfXL2eZ5KDnbyaV6obFLwKyAe8YleKOw_X_B3HKKhzfuueCFLiw7H_QJc9qcW%7c1341595238; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 17:20:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 17:20:38 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.48.1341595238169164; path=/; expires=Sun, 29-Jun-42 17:20:38 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=07f7071ac1c9f6e31c5c6892c63974d5a67a31cc46e323b84ff71e66a0e24589e81a547d634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba73f55d940; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 1:32 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 17:32:31 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=FS6Xk2uz0tP5XGFCm5KIQPNciJO8QYNbOR2moNGSxOuMIqWeIVdbmRhhEd6eiJLqXUPQ-Qcvvkvep22uCItd8O7fZaVQvEbfg9KJodn9R2gELTqwQIFNGOtMoGi%7cG-sDui1oBFERUrc_6GO76DZoLhQ3eNKixVZ899Xx4oI7LxYS7zHMBAPmT27V2MCOAAWcim%7cy_NGnGm2Q40aoqVW3NH_oxUBWdwYW9qe0k1moOLIE2OWRCCxteDsPV3jVD6v24yFZOs1Sm%7c1341595951; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 17:32:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 17:32:31 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.68.1341595951276878; path=/; expires=Sun, 29-Jun-42 17:32:31 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=124b02fb2f687b54611866a1fee48efe48f88eb97edf857c4ff72131a0e24589040151f2634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7396672ec; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 3:35 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=77.32, invoice=1341602755, protection_eligibility=Ineligible, address_status=unconfirmed, payer_id=DHJBRYY6GJDWY, tax=0.00, address_street=3812 E. Garvey Avenue S., payment_date=12:34:40 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=91791, first_name=Chanuwat, mc_fee=3.32, address_country_code=US, address_name=Untapped Sounds, LLC., notify_version=3.4, custom=p, payer_status=verified, business=4884707@qq.com, address_country=United States, address_city=West Covina, quantity=1, verify_sign=AquTTkkCpxh7nZTIPYXQCXEDf4NYAbKxjP3H0yWZJcdHoMqq3vRa3Xb0, payer_email=info@untappedsounds.com, txn_id=2S887644C1361724U, payment_type=instant, payer_business_name=Untapped Sounds, LLC., last_name=Suntalus, address_state=CA, receiver_email=4884707@qq.com, payment_fee=3.32, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=purchase fee, mc_currency=USD, item_number=1341602755, residence_country=US, handling_amount=0.00, transaction_subject=p, payment_gross=77.32, shipping=0.00, ipn_track_id=f2c1c15cb24f1, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 19:34:49 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=cGStolADNBkBk4N4MiXBN6MGxh_kmObHKkGNIrVFwBnAGQQvUfw4xu36AB6yt0-L0Xk8gfHPqM-J_B1nLBf0gWGDRhDDTgke_NNx-wenIyAImtA8DYSdZoaqmuhn39_Fr1KYum%7cR5i5JD-HJKEE9919IZW0Elyh6GswRVE-VIHZOoZ8LV7sV2ONrKJHu71iQeYn-UJgJU_74G%7cOjnDn5StnMojn6cZIsQmZepTyPBsD4OY6-thiz2B9VXtsccPIh9UM_3iqPHMmFfng9b2e0%7c1341603289; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 19:34:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 19:34:49 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.44.1341603289239734; path=/; expires=Sun, 29-Jun-42 19:34:49 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=3b1a36a83b87010e0f085fd24fa7b6e5dffbda154c0168ef4ff73dd9a0e24589cae4400b634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba76a68a3f1; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 4:11 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 20:11:23 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=iOrGPq7eMkJAqpNssryhKHqjNdjpacfxsfOhY3p1qwghcpFt0qMu5dC-LEImY1ky3yIeP9kKdJ4gMA2fZdr46lHrxCXlI2eybvfHnm7sauqmqXO09jDaCqwoBVahuNlAkrKhxm%7cz9pp1Yra5skjY_sDNMlpydKWMHQQ7qmRGsUjK0dHdl9SKABA2tuX8--EJhwS-BB6JnYomG%7cMHSM_ySHZNbnZx257qT2yJwD4SO7iiwLNyG82Frc0D6dDE7JzonGqoKSpDaWFTJUt6RdLm%7c1341605483; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 20:11:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 20:11:23 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.67.1341605483255878; path=/; expires=Sun, 29-Jun-42 20:11:23 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TS6a0e62=bf8e79bd49f7d53fe307a7d514c1a24c3b870721baad1b4e4ff7466da0e24589b6860340634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba710b46710; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 4:23 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Fri, 06 Jul 2012 20:23:17 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=2zE8Tq9lpIeoXvKYS--RvTwq3cSh83YJMyIIAFfhIBxaf2KG5ulUdFD0J0ZJmtt1GfgBN3YO3fAkOPtXDOYsREFy1gwLb7CaSOoAQfgjRuvvUMkQ3bVXNGjzZdC%7c5ovZAZ8kaFfKynSsZZy6z7BeBN1KEShTN9bMgDbhYo900TwjiyOQ2EOWcWVZ89bGGHvDHW%7cHTkDfKffRxm67qgBOrT_TlTWcuMpSPWVvUYTZ66sU6TijJJJcVFxUtvU1Ombosg2Y2wgX0%7c1341606198; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 04-Jul-2022 20:23:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 01-Jul-2032 20:23:18 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.32.1341606197746047; path=/; expires=Sun, 29-Jun-42 20:23:17 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=0e91950ff4247472b0e45face19380b8ad86fbf3403c350c4ff74935a0e24589b579082c634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7bc6373e9; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 9:53 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=203.02, invoice=1341581555, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:28:24 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=8.22, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AKuo4znNW4OGH3SjD4TcdGq7vQWGAjHGWRAVYK-Kw4CHJrait-0tPdQy, payer_email=annefung@hotmail.com, txn_id=14C31708PS720151M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=8.22, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341581555, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=203.02, shipping=0.00, ipn_track_id=b651b88427eb7, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 07 Jul 2012 01:52:52 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=90ALTmGPcfp9cOvC31qUNWJqYYUX_91GOsEzCvhwKE_VuRNqodAz1Q7DJO-2Ap5iGX6oUeensolu7gqCLj2M5W-PRwFoaaGvZt3r13ZtGZj1OCwPWiNvx_ACFOaypDVySaR_HG%7cVXjqpC1B5TzSml4L-JlRSygegqXUvKFkJi_IHi-_YDWCesn8vz_6EZQxUg50YblT8VvJtm%7ciwBMu-GT4gcG9RDtJaX2AUHp6zE_46A1ONZ_0kIyCm8dSrpdzub_QN0C9y-Rtj5cCJ9900%7c1341625972; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 05-Jul-2022 01:52:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 02-Jul-2032 01:52:53 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.44.1341625972712189; path=/; expires=Mon, 30-Jun-42 01:52:52 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=f14e9f0ad5170f6c7fbf25ca1dc35aa1e6a84b4a1009201b4ff79674a0e245890dec405d634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba7e9ddfcfb; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+
+[07/07/2012 10:04 AM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=263.94, invoice=1341585560, protection_eligibility=Ineligible, address_status=confirmed, payer_id=UDXHE4576VKKN, tax=0.00, address_street=46 Deerbrook Trail, payment_date=07:39:55 Jul 06, 2012 PDT, payment_status=Completed, charset=gb2312, address_zip=M1W1V4, first_name=Anne, mc_fee=10.59, address_country_code=CA, address_name=Anne Fung, notify_version=3.4, custom=d, payer_status=verified, business=4884707@qq.com, address_country=Canada, address_city=Scarborough, quantity=1, verify_sign=AZh.t4MbsKKXqLam85U-wps-ngzlAp27PJ3rX-XL3cKnD0sCvRDE-v0i, payer_email=annefung@hotmail.com, txn_id=0B640599FN857821M, payment_type=instant, last_name=Fung, address_state=Ontario, receiver_email=4884707@qq.com, payment_fee=10.59, receiver_id=UY27PBCBW9WEE, txn_type=web_accept, item_name=express,service,tax fee, mc_currency=USD, item_number=1341585560, residence_country=CA, handling_amount=0.00, transaction_subject=d, payment_gross=263.94, shipping=0.00, ipn_track_id=2f78b01f79868, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Date: Sat, 07 Jul 2012 02:04:43 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=wSTaQoYSP8PXxBL-VNiMU2GO-1EShmfNUPXwP653B9TztRR2rqGEv6-bB4BOvhh3PYS6VexOQSuV_VfQ3ogvr6vKmGW1FX1zsR5CBp-Ds5hhOzWrxpSIogJXkIweL5diBigPm0%7cG-YMRz44pGahIRSBDmdupvQKJ1zKN0mZHQoImeYPqpAcsikubGCsmTHvWAgQs9HX3h2--m%7c-teMEgjEFI8gN_khB1yUE9iUeQ2dnUIby8GcUsvHp2pbHufhZHHrtNLqHhQesMwI7RfobW%7c1341626684; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Tue, 05-Jul-2022 02:04:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 02-Jul-2032 02:04:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.74.8.36.1341626683817237; path=/; expires=Mon, 30-Jun-42 02:04:43 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=14400
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: TSe9a623=9a8fc64fbb9e8a7d81bfc5455764f524343096a244bc82ad4ff7993ba0e2458979554df7634137d16081497ffaa6df6385ae782bba64fcf83ecccf34b4608ba74bbd3102; Path=/
+Transfer-Encoding: chunked
+
+8
+VERIFIED
+0
+
+
+

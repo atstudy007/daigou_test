@@ -1,0 +1,5 @@
+[06-Oct-2012 23:25:24] PHP Fatal error:  Call to undefined function  site_url() in /home2/loverbea/public_html/taobao4us.com/templates/default/article/article_view.php on line 3
+[06-Oct-2012 23:47:08] PHP Fatal error:  Call to undefined function  site_url() in /home2/loverbea/public_html/taobao4us.com/templates/default/article/article_list.php on line 3
+[02-Nov-2012 21:22:12] PHP Fatal error:  Call to undefined function  site_url() in /home2/loverbea/public_html/taobao4us.com/templates/default/article/article_list.php on line 3
+[26-Nov-2012 09:32:01] PHP Fatal error:  Call to undefined function  site_url() in /home2/loverbea/public_html/taobao4us.com/templates/default/article/article_list.php on line 3
+[26-Nov-2012 09:32:02] PHP Fatal error:  Call to undefined function  site_url() in /home2/loverbea/public_html/taobao4us.com/templates/default/article/article_view.php on line 3

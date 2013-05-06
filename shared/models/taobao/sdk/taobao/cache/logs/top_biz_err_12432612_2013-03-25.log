@@ -1,0 +1,2 @@
+2013-03-25 18:21:21	{"error_response":{"code":11,"msg":"Insufficient isv permissions","sub_code":"isv.permission-api-package-limit","sub_msg":"scope ids is 289 378 379 381 382 383 384 386"}}
+2013-03-25 18:21:37	{"error_response":{"code":11,"msg":"Insufficient isv permissions","sub_code":"isv.permission-api-package-limit","sub_msg":"scope ids is 289 378 379 381 382 383 384 386"}}

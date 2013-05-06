@@ -1,0 +1,100 @@
+<?php if ( ! defined('IN_DILICMS')) exit('No direct script access allowed');
+$setting['view']=array (
+  'index_hot' => 
+  array (
+    1 => '19905456015|Specials 2012 Korean version of the candy colored casual jeans female feet pant female summer nine primer pants',
+    2 => '17646176498|[Poly buy] Edison weeks Bichang, shells from head shoes couple counters small ticket + to send cotton socks',
+    3 => '14983950788|Onda VI40 dual-core version of 16G 9.7 inch IPS screen Tablet PC A9 dual-core crazy drop spot',
+    4 => '15971796050|Azusa morning wood photo wall is suitable for small wall photo wall frame wall creative combination of HD-562',
+    5 => '13236755192|Jing Qi radiation clothes maternity silver fiber radiation the Maternity genuine radiation clothes summer',
+    6 => '13335491242|Non-mainstream retro magic circle of men necklace pendants men\'s jewelry birthday gift',
+    7 => '17739448305|Of Korean Aikashi Apple iphone 4 4s shell phone Dielianhua protective sleeve diamond shell',
+    8 => '16512104844|Sexy lingerie set transparent temptation women sexy leopard uniforms chest a sack perspective three-point',
+    9 => '14045641144|Blue and white porcelain pen conference gifts abroad gift to send teachers to send students',
+    10 => '16767148652|Blue tripod new modern solid stainless steel brushed silver handles door handles 32273 silver hardware never fade',
+    11 => '10549038724|Sing pure mung bean Mud Mask 150g Oil Control Acne anti-inflammatory pores blackhead whitening genuine',
+    12 => '4149449273|The jujube 500g 包邮 Kunlun Mountains and Hetian jujube four-star jujube Xinjiang specialty snacks Wada dates',
+    13 => '7272012002|Fuji and Polaroid mini25 mini-white camera 25 Value Pack spree',
+    14 => '9804288524|Suna international yurt dome air conditioning nets zipper door student nets 1.8 m 1.5 m 1.2 m',
+    15 => '17956560749|2012 new summer short-sleeved Korean version of sweater, track suit cotton leisure suit female models sportswear W01',
+    16 => '13371861698|Race Duo 1398 vintage rhinestone beaded wedding dress tailor-made wedding dress',
+  ),
+  'guide' => 
+  array (
+    1 => 
+    array (
+      'title' => 'Select Items',
+      'link' => 'http://127.0.0.50:82/guide/view/place-order.html',
+      'txt' => 'Select items on taobao stores, copy the URL and place the order.You can also select and order from Taobao4US directly.',
+    ),
+    2 => 
+    array (
+      'title' => 'Payments',
+      'link' => 'http://127.0.0.50:82/guide/view/pay-with-paypal.html',
+      'txt' => 'Choose a suitable payment method to pay items fee and domestic delivery fee.',
+    ),
+    3 => 
+    array (
+      'title' => 'Purchase',
+      'link' => 'http://127.0.0.50:82',
+      'txt' => 'We will buy items according to your orders after the payment is done.',
+    ),
+    4 => 
+    array (
+      'title' => 'Pay and Ship',
+      'link' => 'http://127.0.0.50:82/guide/view/submit-delivery.html',
+      'txt' => 'Items arrived and weight is shown, then select shipping method, submit parcel orders and pay delivery and service fee.',
+    ),
+    5 => 
+    array (
+      'title' => 'Receive Parcel',
+      'link' => 'http://127.0.0.50:82',
+      'txt' => 'Confirm delivery and leave us a feedback.',
+    ),
+  ),
+  'user_guide' => 
+  array (
+    '1-1-title' => 'Order Tutorial',
+    '1-1-uri' => 'order-tutorial',
+    '1-2-title' => 'Registration & Setting',
+    '1-2-uri' => 'registration-and-setting',
+    '1-3-title' => 'Customer Instruction',
+    '1-3-uri' => 'customer-instruction',
+    '2-1-title' => 'Delivery Methods',
+    '2-1-uri' => 'delivery-methods',
+    '2-2-title' => 'Shipping Price',
+    '2-2-uri' => 'shipping-price',
+    '2-3-title' => 'Delivery Tracking',
+    '2-3-uri' => 'delivery-tracking',
+    '3-1-title' => 'Pay with Paypal',
+    '3-1-uri' => 'pay-with-paypal',
+    '3-2-title' => 'Charge Policy',
+    '3-2-uri' => 'charge-policy',
+    '3-3-title' => 'points and E-coupons',
+    '3-3-uri' => 'points-and-ecoupons',
+    '4-1-title' => 'Shopping Tips',
+    '4-1-uri' => 'shopping-tips',
+    '4-2-title' => 'Purchasing Notice',
+    '4-2-uri' => 'purchasing-notice',
+    '4-3-title' => 'Measurement Help',
+    '4-3-uri' => 'measurement-help',
+    '5-1-title' => 'Place Order',
+    '5-1-uri' => 'place-order',
+    '5-2-title' => 'Order Cancellation',
+    '5-2-uri' => 'order-cancellation',
+    '5-3-title' => 'Order Status',
+    '5-3-uri' => 'order-status',
+    '6-1-title' => 'Complaint & Claim',
+    '6-1-uri' => 'complaint-and-claim',
+    '6-2-title' => 'Return Policy',
+    '6-2-uri' => 'return-policy',
+    '6-3-title' => 'Privacy Statement',
+    '6-3-uri' => 'privacy-statement',
+    '7-1-title' => 'Weight Estimation',
+    '7-1-uri' => 'weight-estimation',
+    '7-2-title' => 'Size Conversion',
+    '7-2-uri' => 'size-conversion',
+    '7-3-title' => 'Exchange Rate',
+    '7-3-uri' => 'exchange-rate',
+  ),
+);
