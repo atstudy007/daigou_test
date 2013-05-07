@@ -33,24 +33,24 @@ $setting['taobao']=array (
   ),
   'system' => 
   array (
-    'rate' => '6.2',
+    'rate' => '4.8',
     'invite' => '0.8',
     'tax' => '0.01',
-    'service_min' => '30',
-    'service' => '0.06',
+    'service_min' => '10',
+    'service' => '0.10',
   ),
   'taobao' => 
   array (
-    'startscore' => '1heart',
+    'startscore' => '1goldencrown',
     'endscore' => '5goldencrown',
     'startcommission' => '200',
     'endcommission' => '5000',
   ),
   'contact' => 
   array (
-    'email' => 'test@163.com',
-    'phone' => '+0000000000000',
-    'msn' => 'test@163.com',
-    'address' => '9:00 am - 6:00 pm  (UTC, Mountain Time, US&Canada)',
+    'email' => 'lingchao@65post.com',
+    'phone' => '+65 66896312',
+    'msn' => 'lingchao@65post.com',
+    'address' => '9:00 am - 6:00 pm',
   ),
 );

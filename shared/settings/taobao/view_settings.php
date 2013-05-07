@@ -24,31 +24,31 @@ $setting['view']=array (
     1 => 
     array (
       'title' => 'Select Items',
-      'link' => 'http://127.0.0.50:82/guide/view/place-order.html',
+      'link' => 'http://www.sgbabytree.com/guide/view/place-order.html',
       'txt' => 'Select items on taobao stores, copy the URL and place the order.You can also select and order from Taobao4US directly.',
     ),
     2 => 
     array (
       'title' => 'Payments',
-      'link' => 'http://127.0.0.50:82/guide/view/pay-with-paypal.html',
+      'link' => 'http://www.sgbabytree.com/guide/view/pay-with-paypal.html',
       'txt' => 'Choose a suitable payment method to pay items fee and domestic delivery fee.',
     ),
     3 => 
     array (
       'title' => 'Purchase',
-      'link' => 'http://127.0.0.50:82',
+      'link' => 'http://www.sgbabytree.com/',
       'txt' => 'We will buy items according to your orders after the payment is done.',
     ),
     4 => 
     array (
       'title' => 'Pay and Ship',
-      'link' => 'http://127.0.0.50:82/guide/view/submit-delivery.html',
+      'link' => 'http://www.sgbabytree.com/guide/view/submit-delivery.html',
       'txt' => 'Items arrived and weight is shown, then select shipping method, submit parcel orders and pay delivery and service fee.',
     ),
     5 => 
     array (
       'title' => 'Receive Parcel',
-      'link' => 'http://127.0.0.50:82',
+      'link' => 'http://www.sgbabytree.com/',
       'txt' => 'Confirm delivery and leave us a feedback.',
     ),
   ),

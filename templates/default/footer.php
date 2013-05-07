@@ -1,4 +1,4 @@
-<div class="clear blank10"></div>
+﻿<div class="clear blank10"></div>
 <!---底部-->
 <div class="allbottom clearfix">
 	<div class="wrap">
@@ -30,11 +30,11 @@
         	<img src="images/p.jpg" />
         </div>
         <div class="copyright">
-        	Copyright © taobao4us.com.com Beijing ICP 12013394
+        	Copyright © sgbabytree.com. Beijing ICP 12013394
         	
         </div>
         <div class="copyright">
-			Address:1207room 12# building DongYaShangBei Center, HuiLongGuan, Changping, Beijing, China, 102208
+			Address:3007 #03-454 Ubi Road 1,Singapore 408701
         </div>
     </div>
 </div>

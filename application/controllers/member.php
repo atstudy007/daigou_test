@@ -177,7 +177,7 @@ class Member extends Taobao_Controller {
 					$this->taobao_member_mdl->update_member('uid',$member->uid,$data);
 					$this->nsession->set_userdata('uid',$member->uid);
 					$this->nsession->set_userdata('last_activity',$data['last_time']);
-                    header('Location:' . 'http://127.0.0.50:82/');
+                    header('Location:' . '/');
 					$link = array('label'=>'click here will redirect to the home page', 'url' =>site_url("home/index/") );
 					$html = 'Login successfully!!';
 					$this->_message($html, array($link), 'info');
