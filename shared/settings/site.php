@@ -1,7 +1,7 @@
 <?php if ( ! defined('IN_DILICMS')) exit('No direct script access allowed');
 $setting=array (
   'site_name' => '狮城代购网',
-  'site_domain' => 'http://www.sgbabytree.com',
+  'site_domain' => 'http://46.137.219.9:8000/',
   'site_logo' => 'images/logo.gif',
   'site_icp' => '',
   'site_terms' => '',
