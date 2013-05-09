@@ -64,6 +64,7 @@ $route['category/(:any)'] = 'product/category/$1';
 $route['search'] = 'product/search';
 
 $route['cart'] = 'my/cart';
+
 
 
 /* End of file routes.php */
