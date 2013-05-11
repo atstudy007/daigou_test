@@ -39,7 +39,7 @@ DD_belatedPNG.fix('.pngfix');
 						<?php endif; ?>
                     </ul>
                 </div>
-                <div class="left" style="line-height:32px;margin-left:20px;"><img style="margin-top:10px;" src="images/us.gif" />&nbsp;<b>1USD=<?php echo round($GLOBALS['taobao']['system']['rate'],2); ?>CNY</b></div>
+                <div class="left" style="line-height:32px;margin-left:20px;"><img style="margin-top:10px;" src="images/sg.gif" />&nbsp;<b>1SGD=<?php echo round($GLOBALS['taobao']['system']['rate'],2); ?>CNY</b></div>
                 <div class="right">
                 	<ul>
                     	<li><a href="<?php echo site_url(); ?>">Home</a></li>
