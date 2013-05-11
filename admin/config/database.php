@@ -104,7 +104,7 @@ $db['default']['username'] = 'root';
 
 $db['default']['password'] = 'Cyh860229';
 
-$db['default']['database'] = 'xinbandaigou2013';
+$db['default']['database'] = 'xinbandaigou2013_test';
 
 $db['default']['dbdriver'] = 'mysql';
 
