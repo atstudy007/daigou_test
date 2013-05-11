@@ -8,7 +8,7 @@
                 <li class="small">
                 	<a href="<?php echo site_url('item/'.$_item->num_iid); ?>"><img src="<?php echo $_item->pic_url."_b.jpg"; ?>" width="60" height="60" /></a>
                 	<p class="title break"><a href="<?php echo site_url('item/'.$_item->num_iid); ?>"><?php echo $_item->title; ?></a></p>
-                    <p class="price">Price:<b>$<?php echo dollar($_item->price); ?></b></p>
+                    <p class="price">Price:<b>S$<?php echo dollar($_item->price); ?></b></p>
                     <p class="bought">Sold:<?php echo $_item->volume; ?></p>
                 </li>
                 <?php endforeach; ?>
@@ -29,7 +29,7 @@
                         <img  src="<?php echo isset($item->pic_url)  ? $item->pic_url."_b.jpg" : '' ; ?>"  width="170" height="161"/>
                         </a>
                         <p class="title"><a href="<?php echo site_url('item/'.$item->num_iid); ?>"><?php echo $item->title; ?></a></p>
-                        <p class="price">$<?php echo dollar($item->price); ?></p>
+                        <p class="price">S$<?php echo dollar($item->price); ?></p>
                         <p class="bought">(<?php echo $item->volume; ?> customers bought)</p>
                     </li>
                     <?php endforeach; ?>

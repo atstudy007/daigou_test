@@ -92,7 +92,7 @@
                 <div class="pro_list right">
                 	<ul>
                     	<li class="bold"><?php echo $item->title; ?></li>
-                        <li class="bold">Price:&nbsp;<span class="red">$$<?php echo dollar($item->price); ?></span></li>
+                        <li class="bold">Price:&nbsp;<span class="red">S$<?php echo dollar($item->price); ?></span></li>
                         <li class="bold">Express:&nbsp;<span class="red">S$<?php echo dollar($item->express_fee); ?></span></li>
                     </ul>
                     <div class="other_pro clearfix">
@@ -212,7 +212,7 @@
                 <li>
                 	<a href="<?php echo site_url('item/'.$_item->num_iid); ?>"><img src="<?php echo $_item->pic_url."_b.jpg"; ?>" width="60" height="60" /></a>
                 	<p class="title break"><a href="<?php echo site_url('item/'.$_item->num_iid); ?>"><?php echo $_item->title; ?></a></p>
-                    <p class="price">Price:<b>$<?php echo dollar($_item->price); ?></b></p>
+                    <p class="price">Price:<b>S$<?php echo dollar($_item->price); ?></b></p>
                     <p class="bought">Sold:<?php echo $_item->volume; ?></p>
                 </li>
                 <?php endforeach; ?>
