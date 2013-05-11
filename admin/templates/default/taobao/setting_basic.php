@@ -76,7 +76,7 @@
 				<col />
 				<?php $system = @unserialize($setting->system); ?>
 				<tr>
-					<th>美元对人民币汇率：</th>
+					<th>新币对人民币汇率：</th>
 					<td>
 						<input type='text' class='small' name="system[rate]" value="<?php echo isset($system['rate']) ? $system['rate'] : 0 ; ?>" />
 					</td>

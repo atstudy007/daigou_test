@@ -12,4 +12,4 @@ $config['paypal_lib_ipn_log'] = FALSE;
 $config['paypal_lib_button_path'] = 'templates/default/images/taobao';
 
 // What is the default currency?
-$config['paypal_lib_currency_code'] = 'USD';
+$config['paypal_lib_currency_code'] = 'SGD';
