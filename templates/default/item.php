@@ -92,8 +92,8 @@
                 <div class="pro_list right">
                 	<ul>
                     	<li class="bold"><?php echo $item->title; ?></li>
-                        <li class="bold">Price:&nbsp;<span class="red">$<?php echo dollar($item->price); ?></span></li>
-                        <li class="bold">Express:&nbsp;<span class="red">$<?php echo dollar($item->express_fee); ?></span></li>
+                        <li class="bold">Price:&nbsp;<span class="red">$$<?php echo dollar($item->price); ?></span></li>
+                        <li class="bold">Express:&nbsp;<span class="red">S$<?php echo dollar($item->express_fee); ?></span></li>
                     </ul>
                     <div class="other_pro clearfix">
                     	<ul>

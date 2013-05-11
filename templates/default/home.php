@@ -159,7 +159,7 @@
                         <img width="170" height="161" src="http://img01.taobaocdn.com/bao/uploaded/i1/14015020146611373/T1AKJBXthfXXXXXXXX_!!0-item_pic.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/19225199585.html">2013春装新款韩版白色蕾丝连衣裙 韩版修身中袖雪纺打底裙子</a></p>
-                        <p class="price">$14</p>
+                        <p class="price">S$14</p>
                         <p class="bought">(14073 customers bought)</p>
                  </li>
                  <li>
@@ -167,7 +167,7 @@
                         <img width="170" height="161" src="http://img03.taobaocdn.com/bao/uploaded/i3/14732020464720518/T1mNtKXvBcXXXXXXXX_!!0-item_pic.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/19361679087.html">潮流女装13新品春装韩版衣服修身蕾丝泡泡长袖V领连衣裙森女裙子</a></p>
-                        <p class="price">$12</p>
+                        <p class="price">S$12</p>
                         <p class="bought">(113 customers bought)</p>
                   </li> 
                     <li>
@@ -175,7 +175,7 @@
                         <img width="170" height="161" src="http://img03.taobaocdn.com/bao/uploaded/i3/T1QL_mXX8fXXbpMZo._081513.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/18188100698.html">2双包邮 新款春秋老北京布鞋子女单鞋蝴蝶结平跟软底平底鞋糖果色</a></p>
-                        <p class="price">$6</p>
+                        <p class="price">S$6</p>
                         <p class="bought">(66 customers bought)</p>
                     </li>
                        <!--10-->
@@ -184,7 +184,7 @@
                         <img width="170" height="161" src="http://img02.taobaocdn.com/bao/uploaded/i2/T12_K0XiFmXXcgC8A4_054020.jpg_b.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/14776027910.html">2012最新款婚纱 韩版甜美公主蓬蓬裙婚纱 韩式齐地抹胸婚纱礼服</a></p>
-                        <p class="price">$48.06</p>
+                        <p class="price">S$48.06</p>
                         <p class="bought">(215 customers bought)</p>
                     </li>
                     <li>
@@ -192,7 +192,7 @@
                         <img width="170" height="161" src="http://img02.taobaocdn.com/bao/uploaded/i2/11093021401955433/T11Hd8XytXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/14782262215.html">小包包2013新款韩版春夏潮女士包时尚女包小包单肩斜跨包两用包邮</a></p>
-                        <p class="price">$11</p>
+                        <p class="price">S$11</p>
                         <p class="bought">(236customers bought)</p>
                     </li>
                     <li>
@@ -200,7 +200,7 @@
                         <img width="170" height="161" src="http://img02.taobaocdn.com/bao/uploaded/i2/T1vBUgXXReXXa95kwY_030248.jpg_460x460.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/12423449544.html">喜向红2013春款女装衣服韩版潮长袖t恤女款修身条纹打底衫女长袖</a></p>
-                        <p class="price">$10</p>
+                        <p class="price">S$10</p>
                         <p class="bought">(35customers bought)</p>
                     </li>
                      <li>
@@ -208,7 +208,7 @@
                         <img width="170" height="161" src="http://img01.taobaocdn.com/bao/uploaded/i1/13930019740649056/T1zO4oXtXfXXXXXXXX_!!0-item_pic.jpg_460x460.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/12224681317.html">时装周OSA女装衣服韩版中长款包臀打底衫春夏季T恤 女 长袖T11024</a></p>
-                        <p class="price">$12</p>
+                        <p class="price">S$12</p>
                         <p class="bought">(78customers bought)</p>
                     </li>
                     <li>
@@ -216,7 +216,7 @@
                         <img width="170" height="161" src="http://img02.taobaocdn.com/imgextra/i2/1024357221/T2bkC2XataXXXXXXXX_!!1024357221.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/20866444684.html">2013夏季新款女包复古韩版单肩包休闲柳丁包时尚潮鳄鱼纹小包包邮</a></p>
-                        <p class="price">$21</p>
+                        <p class="price">S$21</p>
                         <p class="bought">(124 customers bought)</p>
                     </li>
                      <li>
@@ -224,7 +224,7 @@
                         <img width="170" height="161" src="http://img01.taobaocdn.com/bao/uploaded/i1/12259021491785391/T1Mct9XBNbXXXXXXXX_!!0-item_pic.jpg_460x460.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/17763162470.html">依然纯2013夏季女装新款韩版修身大码气质蕾丝雪纺连衣裙短袖裙子</a></p>
-                        <p class="price">$17.74</p>
+                        <p class="price">S$17.74</p>
                         <p class="bought">(135 customers bought)</p>
                     </li>
                     <li>
@@ -232,7 +232,7 @@
                         <img width="170" height="161" src="http://img03.taobaocdn.com/bao/uploaded/i3/15506020057106908/T1sH0zXsBeXXXXXXXX_!!0-item_pic.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/17422734719.html">猪猪 2013新款春装女装衣服 亮闪亲纱质花瓣领打底衫T恤</a></p>
-                        <p class="price">$4</p>
+                        <p class="price">S$4</p>
                         <p class="bought">(1432 customers bought)</p>
                     </li>
                     <li>
@@ -240,7 +240,7 @@
                         <img width="170" height="161" src="http://img01.taobaocdn.com/bao/uploaded/i1/18670020969144836/T1z2NVXqxXXXXXXXXX_!!0-item_pic.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/23606028379.html">蘑菇街2013夏款小背心潮女衣服装批发厂家直批韩版姐妹装闺蜜装</a></p>
-                        <p class="price">$17.74</p>
+                        <p class="price">S$17.74</p>
                         <p class="bought">(1267 customers bought)</p>
                     </li>
                    <li>
@@ -248,7 +248,7 @@
                         <img width="170" height="161" src="http://img02.taobaocdn.com/bao/uploaded/i2/18554021963695742/T1_jNzXqJdXXXXXXXX_!!0-item_pic.jpg_310x310.jpg">
                         </a>
                         <p class="title"><a href="http://www.sgbabytree.com/item/17430817400.html">淘派热卖包包2012新款女包韩版潮特价单肩斜跨时尚百搭流苏黑色大</a></p>
-                        <p class="price">$31.94</p>
+                        <p class="price">S$31.94</p>
                         <p class="bought">(13679 customers bought)</p>
                     </li>
                 </ul>

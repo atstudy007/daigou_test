@@ -38,7 +38,7 @@
                 	<td colspan="8" align="right">
 						Total:
                         <b class="price">
-                        	$<?php echo $checkout['total_cash'] > 0 ? dollar($checkout['total_cash']) : ''  ; ?>
+                        	S$<?php echo $checkout['total_cash'] > 0 ? dollar($checkout['total_cash']) : ''  ; ?>
                         </b></td>
                        
                 </tr>

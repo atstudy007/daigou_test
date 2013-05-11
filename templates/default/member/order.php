@@ -21,7 +21,7 @@
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"><b>Purchase Fee</b></td>
-                    <td class="color666" height="26" colspan="1" valign="middle"><span class="price">$<?php echo dollar($order->money); ?></span></td>
+                    <td class="color666" height="26" colspan="1" valign="middle"><span class="price">S$<?php echo dollar($order->money); ?></span></td>
                     <td class="color666" height="26" colspan="2" valign="middle">
                         <?php if ($order->status == ORDER_UNPAYED): ?>
                         	<a href="<?php echo site_url('pay/paypal/checkout/p/'.$order->id); ?>">

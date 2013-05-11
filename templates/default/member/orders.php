@@ -71,7 +71,7 @@
                                     <input type="checkbox" name="order[]" value="<?php echo $v->id; ?>" <?php echo $v->status == ORDER_ARRIVED && $v->weight ? '' : 'disabled="disabled"';?> />
                                 </td>
                                 <td><?php echo $v->id; ?></td>
-                                <td>$<?php echo dollar($v->money); ?></td>
+                                <td>S$<?php echo dollar($v->money); ?></td>
                                 <td><?php echo $v->weight ? $v->weight.'Kg' : '-'; ?></td>
                                 <td><?php  echo $status[$v->status].'('.date('Y-m-d H:i:s',$v->status_time).')'; ?></td>
                                 <td><a href="<?php echo site_url('my/order/'.$v->id); ?>">View Detail</a></td>
