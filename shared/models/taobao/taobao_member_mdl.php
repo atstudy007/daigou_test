@@ -47,6 +47,8 @@ class Taobao_member_mdl extends CI_Model
 			$data['userpass'] = trim($this->input->post('userpass', TRUE));
 			$data['country'] = $this->input->post('country', TRUE);
 			$data['inviter'] = $this->input->post('inviter', TRUE);
+                        $data['mail_address'] = $this->input->post('address', TRUE);
+                        $data['phone'] = $this->input->post('phone', TRUE);
 		}
 		$data['salt'] = substr(md5(rand()), 0, 5);
 		$data['userpass'] = md5($data['userpass'] . $data['salt']);
