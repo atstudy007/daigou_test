@@ -64,18 +64,22 @@
                               5% service fee for your 1st order!</td>
                               <td align="left" valign="middle" ></td>
                             </tr>
+                            <?php if ( $error = form_error('address').form_error('_check_address')): ?>
                             <tr>
                               <td align="right" valign="middle" class="title color666">Address</td>
                               <td colspan="2" valign="middle" class="input"><input  type="text" id="address" name="adress" maxlength="16" value="" />
                               Your mail address.</td>
                               <td align="left" valign="middle" ></td>
                             </tr>
+                            <?php endif; ?>
+                            <?php if ( $error = form_error('phone').form_error('_check_phone')): ?>
                             <tr>
                               <td align="right" valign="middle" class="title color666">Phone</td>
                               <td colspan="2" valign="middle" class="input"><input  type="text" id="phone" name="phone" maxlength="16" value="" />
                               Your phone number.</td>
                               <td align="left" valign="middle" ></td>
                             </tr>
+                            <?php endif; ?>
                             <tr>
                 <td align="right" valign="middle" class="title color666">Captcha</td>
                 <td width="96" valign="middle" class=""><input autocomplete="off" name="captcha" id="captcha" type="text" style="width:70px;" />
