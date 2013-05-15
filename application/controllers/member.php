@@ -223,8 +223,8 @@ class Member extends Taobao_Controller {
 		$this->form_validation->set_rules('username', 'Username', 'required|min_length[3]|max_length[10]|callback__check_username');
 		$this->form_validation->set_rules('inviter', 'Inviter', 'trim');
 		$this->form_validation->set_rules('country', 'Country' ,'trim');
-                $this->form_validation->set_rules('address', 'Address' ,'required|max_length[255]');
-                $this->form_validation->set_rules('phone', 'Phone' ,'required|max_length[20]');
+                $this->form_validation->set_rules('address', 'Address' ,'trim|required|min_length[5]|max_length[255]');
+                $this->form_validation->set_rules('phone', 'Phone' ,'trim|required|min_length[8]|max_length[20]');
 		$this->form_validation->set_rules('captcha', 'Captcha', 'trim|required|callback__check_captcha');
 		if ($this->form_validation->run() == FALSE)
 		{
