@@ -23,6 +23,8 @@
                         最后登录IP：<?php echo $member->last_login_ip; ?>(<?php echo date("Y-m-d H:i:s",$member->last_login_time); ?>)<br />
                         登录次数：<?php echo $member->login_times; ?><br />
                         当前积分：<?php echo $member->credit; ?><br />
+                        地址：<?php echo $member->mail_address; ?><br />
+                        电话：<?php echo $member->phone; ?><br />
                     </td>
                 </tr>
                 <tr>
