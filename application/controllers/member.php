@@ -234,6 +234,7 @@ class Member extends Taobao_Controller {
 		else
 		{
 			$uid = $this->taobao_member_mdl->add_member();
+                        $this->taobao_member_mdl->send_activate_email($uid, $this->input->post('email', TRUE));
 
 					$link = array('label'=>'click here to login', 'url' =>site_url("member/login"));
 					$html = 'Register successfully!!';
