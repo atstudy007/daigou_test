@@ -100,11 +100,11 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 
-$db['default']['username'] = 'sginv_daigou';
+$db['default']['username'] = 'root';
 
-$db['default']['password'] = '64584099#';
+$db['default']['password'] = 'Cyh860229';
 
-$db['default']['database'] = 'sginv_db';
+$db['default']['database'] = 'xinbandaigou2013_test';
 
 $db['default']['dbdriver'] = 'mysql';
 
