@@ -18,6 +18,7 @@ class Taobao_email_queue_mdl extends CI_Model
 		$this->config['smtp_host'] = $taobao['api']['email_smtp'];
 		$this->config['smtp_user'] = $taobao['api']['email_account'];
 		$this->config['smtp_pass'] = $taobao['api']['email_password'];
+                $this->config['smtp_port'] = '25';
 		$this->config['charset'] = 'utf-8';
 		$this->config['wordwrap'] = TRUE;
 		$this->config['mailtype'] = 'html';
