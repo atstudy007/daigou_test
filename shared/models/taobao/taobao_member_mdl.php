@@ -139,7 +139,9 @@ class Taobao_member_mdl extends CI_Model
 		$data['activation_send_time'] = now();
 		$active_url = site_url('member/activate/') . '?user=' . $data['activation_code'];
 		$message = $this->taobao_email_tpl_mdl->get_tpl('active');
+                $member = $this->taobao_member_mdl->get_member_by_uid($uid);
 		$message = str_replace('{active_url}', $active_url, $message);
+                $message = str_replace('{username}', $member->username, $message);
 		$this->taobao_email_queue_mdl->push($email, 'Member Activation', $message);
 		$this->update_member('uid', $uid, $data);
 		return TRUE;
