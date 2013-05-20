@@ -60,13 +60,13 @@
                             </tr>
                             <tr>
                               <td align="right" valign="middle" class="title color666">Inviter</td>
-                              <td colspan="2" valign="middle" class="input"><input  type="text" id="inviter" name="inviter" maxlength="16" value="<?php echo set_value('inviter'); ?>" />
+                              <td colspan="2" valign="middle" class="input"><input  type="text" id="inviter" name="inviter" maxlength="255" value="<?php echo set_value('inviter'); ?>" />
                               5% service fee for your 1st order!</td>
                               <td align="left" valign="middle" ></td>
                             </tr>                          
                             <tr>
                               <td align="right" valign="middle" class="title color666">Address</td>
-                              <td colspan="2" valign="middle" class="input"><input  type="text" id="address" name="address" maxlength="16" value="" />
+                              <td colspan="2" valign="middle" class="input"><input  type="text" id="address" name="address" maxlength="20" value="" />
                               Your mail address.</td>
                               <td align="left" valign="middle" ></td>
                             </tr>
