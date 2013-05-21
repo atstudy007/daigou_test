@@ -15,6 +15,17 @@
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/global.js"></script>
 <script type="text/javascript">var base_url = '<?php echo base_url(); ?>';</script>
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<link rel="stylesheet" href="/resources/demos/style.css" />
+<script>
+$(function() {
+  $( "#tabs" ).tabs();
+});
+</script>
+  
 <!--[if IE 6]>
 <script type="text/javascript" src="js/DD_belatedPNG.js"></script>
 <script type="text/javascript">
