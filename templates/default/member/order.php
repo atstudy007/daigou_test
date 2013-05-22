@@ -6,7 +6,7 @@
     </div><!--end indexleft-->
     <div class="indexright">
       <div class="shoppinglist" style="border:1px #ccc solid">
-             <h1  class="super colorA10">Order Detail:</h1>
+            <h1  class="super colorA10">Order Detail:</h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form color999" >
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"><b>No.</b></td>
@@ -39,7 +39,19 @@
                 </tr>
             </table><br /><br />
             <h1  class="super colorA10">Payment: </h1>
-            
+            <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form color999" >
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"><b>Pay by PayPal:</b></td>
+                    <td class="color666" height="26" colspan="2" valign="middle">
+                        <?php if ($order->status == ORDER_UNPAYED): ?>
+                        	<a href="<?php echo site_url('pay/paypal/checkout/p/'.$order->id); ?>">
+                                <img src="images/taobao/btn_xpressCheckout.gif" border="0" />
+                            </a>
+                            <span style="line-height:50px;color:red">Notice:extra fee (<b>3.9%+$0.3</b>) will be charged!</span>
+                        <?php endif; ?>
+                    </td>
+                </tr>
+            </table><br /><br />
             <h1  class="super colorA10">Products: </h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form listtable" >
                 <tr>
