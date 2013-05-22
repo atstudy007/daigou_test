@@ -81,21 +81,3 @@
       </div>
 
 </div>
-
-<div id="tabs">
-    <ul>
-      <li><a href="#tabs-1">Nunc tincidunt</a></li>
-      <li><a href="#tabs-2">Proin dolor</a></li>
-      <li><a href="#tabs-3">Aenean lacinia</a></li>
-    </ul>
-    <div id="tabs-1">
-      <p>tab1</p>
-    </div>
-    <div id="tabs-2">
-      <p>tab2</p>
-    </div>
-    <div id="tabs-3">
-      <p>test3-1</p>
-      <p>test3-2</p>
-    </div>
-</div>

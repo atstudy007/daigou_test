@@ -17,6 +17,7 @@
 <script type="text/javascript">var base_url = '<?php echo base_url(); ?>';</script>
 
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 <link rel="stylesheet" href="http://jqueryui.com/resources/demos/style.css" />
 <script>
@@ -34,6 +35,23 @@ DD_belatedPNG.fix('.pngfix');
 </head>
 
 <body>
+    <div id="tabs">
+                    <ul>
+                      <li><a href="#tabs-1">Nunc tincidunt</a></li>
+                      <li><a href="#tabs-2">Proin dolor</a></li>
+                      <li><a href="#tabs-3">Aenean lacinia</a></li>
+                    </ul>
+                    <div id="tabs-1">
+                      <p>tab1</p>
+                    </div>
+                    <div id="tabs-2">
+                      <p>tab2</p>
+                    </div>
+                    <div id="tabs-3">
+                      <p>test3-1</p>
+                      <p>test3-2</p>
+                    </div>
+                </div>
 <div class="wrap">
 	<div class="top clearfix">
     	<div class="nav">
