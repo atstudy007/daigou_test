@@ -12,7 +12,7 @@
 <base href="<?php echo base_url().'templates/'.$this->settings->item('site_theme').'/'; ?>" />
 <link href="images/global.css" rel="stylesheet" type="text/css" />
 <link href="images/style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/jquery.min.js"></script>
+
 <script type="text/javascript" src="js/global.js"></script>
 <script type="text/javascript">var base_url = '<?php echo base_url(); ?>';</script>
 
