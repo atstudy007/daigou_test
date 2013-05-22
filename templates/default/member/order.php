@@ -46,7 +46,10 @@
                     </td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
-                    <td class="colorA10" height="26"><b>Or Pay by PayPal:</b></td>
+                    <td class="colorA10" height="26"><b>Or</b></td>
+                </tr>
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="colorA10" height="26"><b>Pay by iBanking:</b></td>
                     <td class="color666" height="26" colspan="2" valign="middle">
                         
                     </td>
