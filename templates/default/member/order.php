@@ -49,12 +49,24 @@
                     <td class="colorA10" height="26"><b>Or</b></td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
-                    <td class="colorA10" height="26"><b>Pay by iBanking:</b></td>
-                    <td class="color666" height="26" colspan="2" valign="middle">
-                        
-                    </td>
+                    <td class="color666" height="26"><b>Pay by iBanking:</b></td>
                 </tr>
-                
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"><b>DBS/POST</b></td>
+                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                </tr>
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"><b>DBS/POST</b></td>
+                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                </tr>
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"><b>OCBC</b></td>
+                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                </tr>
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"><b>UOB</b></td>
+                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                </tr>
             </table><br /><br />
             <h1  class="super colorA10">Products: </h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form listtable" >
