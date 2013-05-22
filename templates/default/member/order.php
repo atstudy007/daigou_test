@@ -39,22 +39,29 @@
                 </tr>
             </table><br /><br />
             <h1  class="super colorA10">Payment: </h1>
-                <div id="tabs">
-                    <ul>
-                      <li><a href="#tabs-1">Nunc tincidunt</a></li>
-                      <li><a href="#tabs-2">Proin dolor</a></li>
-                      <li><a href="#tabs-3">Aenean lacinia</a></li>
-                    </ul>
-                    <div id="tabs-1">
-                      <p>tab1</p>
-                    </div>
-                    <div id="tabs-2">
-                      <p>tab2</p>
-                    </div>
-                    <div id="tabs-3">
-                      <p>test3-1</p>
-                      <p>test3-2</p>
-                    </div>
+                <div id="wrapper">
+                    <div id="tabContainer">
+                      <div class="tabs">
+                        <ul>
+                          <li id="tabHeader_1">Page 1</li>
+                          <li id="tabHeader_2">Page 2</li>
+                          <li id="tabHeader_3">Page 3</li>
+                        </ul>
+                      </div>
+                      <div class="tabscontent">
+                        <div class="tabpage" id="tabpage_1">
+                          <h2>Page 1</h2>
+                          <p>Pellentesque habitant morbi tristique senectus...</p>
+                        </div>
+                        <div class="tabpage" id="tabpage_2">
+                          <h2>Page 2</h2>
+                          <p>Pellentesque habitant morbi tristique senectus...</p>
+                        </div>
+                        <div class="tabpage" id="tabpage_3">
+                          <h2>Page 3</h2>
+                          <p>Pellentesque habitant morbi tristique senectus...</p>
+                        </div>
+                      </div>
                 </div>
             <h1  class="super colorA10">Products: </h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form listtable" >
