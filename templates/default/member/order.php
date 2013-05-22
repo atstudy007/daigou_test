@@ -78,6 +78,13 @@
                         </select>
                     </td>
                 </tr>
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"></td>
+                    <td class="color666" height="26"><b>Transaction number:</b></td>
+                    <td class="color666" height="26">
+                        <input type="text" />
+                    </td>
+                </tr>
             </table><br /><br />
             <h1  class="super colorA10">Products: </h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form listtable" >
