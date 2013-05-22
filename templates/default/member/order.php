@@ -59,12 +59,24 @@
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>OCBC</b></td>
-                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                    <td class="color666" height="26">111-1111-11111</td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>UOB</b></td>
-                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                    <td class="color666" height="26">111-1111-11111</td>
+                </tr>
+                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"></td>
+                    <td class="color666" height="26"><b>iBanking:</b></td>
+                    <td class="color666" height="26">
+                        <select>
+                            <option value="volvo">Please select iBanking</option>
+                            <option value="saab">DBS/POSB(111-1111-11111)</option>
+                            <option value="mercedes">OCBC(111-1111-11111)</option>
+                            <option value="audi">UOB(111-1111-11111)</option>
+                        </select>
+                    </td>
                 </tr>
             </table><br /><br />
             <h1  class="super colorA10">Products: </h1>
