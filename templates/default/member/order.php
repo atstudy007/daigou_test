@@ -39,30 +39,7 @@
                 </tr>
             </table><br /><br />
             <h1  class="super colorA10">Payment: </h1>
-                <div id="wrapper">
-                    <div id="tabContainer">
-                      <div class="tabs">
-                        <ul>
-                          <li id="tabHeader_1">Page 1</li>
-                          <li id="tabHeader_2">Page 2</li>
-                          <li id="tabHeader_3">Page 3</li>
-                        </ul>
-                      </div>
-                      <div class="tabscontent">
-                        <div class="tabpage" id="tabpage_1">
-                          <h2>Page 1</h2>
-                          <p>Pellentesque habitant morbi tristique senectus...</p>
-                        </div>
-                        <div class="tabpage" id="tabpage_2">
-                          <h2>Page 2</h2>
-                          <p>Pellentesque habitant morbi tristique senectus...</p>
-                        </div>
-                        <div class="tabpage" id="tabpage_3">
-                          <h2>Page 3</h2>
-                          <p>Pellentesque habitant morbi tristique senectus...</p>
-                        </div>
-                      </div>
-                </div>
+            
             <h1  class="super colorA10">Products: </h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form listtable" >
                 <tr>
