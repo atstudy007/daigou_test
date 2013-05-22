@@ -52,18 +52,17 @@
                     <td class="color666" height="26"><b>Pay by iBanking:</b></td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>DBS/POST</b></td>
-                    <td class="color666" height="26"><b>111-1111-11111</b></td>
+                    <td class="color666" height="26">111-1111-11111</td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
-                    <td class="color666" height="26"><b>DBS/POST</b></td>
-                    <td class="color666" height="26"><b>111-1111-11111</b></td>
-                </tr>
-                <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>OCBC</b></td>
                     <td class="color666" height="26"><b>111-1111-11111</b></td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
+                    <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>UOB</b></td>
                     <td class="color666" height="26"><b>111-1111-11111</b></td>
                 </tr>
