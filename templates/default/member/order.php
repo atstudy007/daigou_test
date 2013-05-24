@@ -70,11 +70,11 @@
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>iBanking:</b></td>
                     <td class="color666" height="26">
-                        <select>
-                            <option value="volvo">Please select iBanking</option>
-                            <option value="saab">DBS/POSB(111-1111-11111)</option>
-                            <option value="mercedes">OCBC(111-1111-11111)</option>
-                            <option value="audi">UOB(111-1111-11111)</option>
+                        <select id="ibanking">
+                            <option value="0">Please select iBanking</option>
+                            <option value="1">DBS/POSB(111-1111-11111)</option>
+                            <option value="2">OCBC(111-1111-11111)</option>
+                            <option value="3">UOB(111-1111-11111)</option>
                         </select>
                     </td>
                 </tr>
@@ -113,5 +113,26 @@
             </table><br />
       </div>
       </div>
+    
+    <script language="javascript" > 
+        function showpublishtel() 
+        { 
+            if(document.getElementById("ibanking").value=="1") 
+            { 
+                window.open("http://www.docjs.com/", "win"); 
+            } 
+            
+            if(16==document.getElementById("ibanking").value=="2") 
+            { 
+                window.open("http://www.docjs.com/", "win"); 
+            } 
+            
+            if(16==document.getElementById("ibanking").value=="3") 
+            { 
+                window.open("http://www.docjs.com/", "win"); 
+            } 
+        } 
+    </script> 
 
 </div>
+
