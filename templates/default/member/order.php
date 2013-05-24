@@ -66,7 +66,7 @@
                     <td class="color666" height="26"><b>UOB</b></td>
                     <td class="color666" height="26">111-1111-11111</td>
                 </tr>
-                <form action="/my/pay" method="POST">
+                <form action="<?php echo backend_url('/my/pay')?>" method="POST">
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>iBanking:</b></td>
