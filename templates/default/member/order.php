@@ -74,7 +74,7 @@
                             <option value="0">Please select iBanking</option>
                             <option value="1">DBS/POSB(111-1111-11111)</option>
                             <option value="2">OCBC(111-1111-11111)</option>
-                            <option value="3">UOB(111-1111-11111)</option>
+                            <option value="3">UOB(111-1111-11111)</option>                            
                         </select>
                     </td>
                 </tr>
@@ -119,17 +119,17 @@
         { 
             if(document.getElementById("ibanking").value=="1") 
             { 
-                window.open("http://www.docjs.com/", "win"); 
+                window.open("https://internet-banking.dbs.com.sg/IB/Welcome", "win"); 
             } 
             
             if(document.getElementById("ibanking").value=="2") 
             { 
-                window.open("http://www.docjs.com/", "win"); 
+                window.open("https://internet.ocbc.com/internet-banking/Login/Login", "win"); 
             } 
             
             if(document.getElementById("ibanking").value=="3") 
             { 
-                window.open("http://www.docjs.com/", "win"); 
+                window.open("http://www.uob.com.sg/personal/ebanking/pib/index.html", "win"); 
             } 
         } 
     </script> 
