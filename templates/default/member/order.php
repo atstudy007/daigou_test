@@ -90,6 +90,7 @@
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><button type="submit" >Submit</button></td>
                 </tr>
+                <input type="hiden" value="<?php echo $order->id;; ?>" name="order_id"/>
                 </form>
             </table><br /><br />
             <h1  class="super colorA10">Products: </h1>
