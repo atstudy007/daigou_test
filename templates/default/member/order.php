@@ -70,7 +70,7 @@
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>iBanking:</b></td>
                     <td class="color666" height="26">
-                        <select id="ibanking">
+                        <select id="ibanking" onchange="ibanking();">
                             <option value="0">Please select iBanking</option>
                             <option value="1">DBS/POSB(111-1111-11111)</option>
                             <option value="2">OCBC(111-1111-11111)</option>
@@ -115,7 +115,7 @@
       </div>
     
     <script language="javascript" > 
-        function showpublishtel() 
+        function goibanking() 
         { 
             if(document.getElementById("ibanking").value=="1") 
             { 
