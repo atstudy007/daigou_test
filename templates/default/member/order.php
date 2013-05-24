@@ -122,12 +122,12 @@
                 window.open("http://www.docjs.com/", "win"); 
             } 
             
-            if(16==document.getElementById("ibanking").value=="2") 
+            if(document.getElementById("ibanking").value=="2") 
             { 
                 window.open("http://www.docjs.com/", "win"); 
             } 
             
-            if(16==document.getElementById("ibanking").value=="3") 
+            if(document.getElementById("ibanking").value=="3") 
             { 
                 window.open("http://www.docjs.com/", "win"); 
             } 
