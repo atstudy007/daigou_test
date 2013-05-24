@@ -66,11 +66,12 @@
                     <td class="color666" height="26"><b>UOB</b></td>
                     <td class="color666" height="26">111-1111-11111</td>
                 </tr>
+                <form action="/my/pay" method="POST">
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>iBanking:</b></td>
                     <td class="color666" height="26">
-                        <select id="ibanking" onchange="goibanking();">
+                        <select id="ibanking" onchange="goibanking();" name="ibanking">
                             <option value="0">Please select iBanking</option>
                             <option value="1">DBS/POSB(111-1111-11111)</option>
                             <option value="2">OCBC(111-1111-11111)</option>
@@ -82,13 +83,14 @@
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><b>Transaction number:</b></td>
                     <td class="color666" height="26">
-                        <input type="text" />
+                        <input type="text" name="trans_num"/>
                     </td>
                 </tr>
                 <tr style="border-bottom:1px #cccccc solid">
                     <td class="color666" height="26"></td>
                     <td class="color666" height="26"><button type="submit" >Submit</button></td>
                 </tr>
+                </form>
             </table><br /><br />
             <h1  class="super colorA10">Products: </h1>
             <table width="90%"  border="0" cellpadding="0" cellspacing="0" class="form listtable" >
