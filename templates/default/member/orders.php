@@ -34,9 +34,12 @@
                                 	Country:
                                     <select name="country">
                                     	<option value="false">--select country--</option>
+                                        <!--
                                     	<?php foreach($country as $k => $v): ?>
                                     	<option value="<?php echo $k; ?>"><?php echo $v; ?></option>
                                         <?php endforeach; ?>
+                                        -->
+                                        <option value="SGP" >Singapore</option>
                                     </select>
                                     Express:
                                     <select name="express">	

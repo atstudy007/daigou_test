@@ -52,9 +52,11 @@
                               <td align="right" valign="middle" class="title color666">Country</td>
                               <td colspan="3" valign="middle" class="input">
                               		<select name="country">
-                                    	<?php foreach($country as $k => $v): ?>
+                                    	<!--<?php foreach($country as $k => $v): ?>
                                     	<option value="<?php echo $k; ?>" <?php echo set_select('country', $k); ?>><?php echo $v; ?></option>
                                         <?php endforeach; ?>
+                                        -->
+                                        <option value="SGP" >Singapore</option>
                                     </select>
                               </td>
                             </tr>
